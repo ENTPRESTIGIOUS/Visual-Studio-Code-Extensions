@@ -1,3 +1,7 @@
 # Visual-Studio-Code-Extensions
 
-<b>Extensions</b>
+<p><b>Extensions</b></p>
+
+<ul>
+  <li>https://marketplace.visualstudio.com/items?itemName=micnil.vscode-checkpoints</li>
+</ul>
